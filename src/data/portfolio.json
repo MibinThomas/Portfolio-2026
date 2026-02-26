@@ -78,7 +78,7 @@
   "skills": [
     {
       "id": "1",
-      "category": "",
+      "category": "Web Development",
       "icon": "Monitor",
       "items": [
         "Next.js / React",
