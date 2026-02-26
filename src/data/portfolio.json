@@ -1,0 +1,139 @@
+{
+  "hero": {
+    "greeting": "Portfolio 2026",
+    "title": "Mibin Thomas",
+    "subtitle": "E-commerce & Digital Growth.",
+    "description": "Specialized in strategic online campaigns and AI data annotation. I optimize digital pathways to boost traffic, engagement, and operational efficiency across the UAE."
+  },
+  "about": {
+    "text1": "I am a result-oriented professional with a strong background in e-commerce and digital marketing. Throughout my career, I've consistently demonstrated expertise in leveraging strategic campaigns to enhance brand visibility.",
+    "text2": "My focus is on utilizing data-driven insights to boost organic reach, creating value that directly impacts the bottom line while delivering seamless user experiences.",
+    "text3": "Additionally, working at Amazon as an AI Data Associate handling complex Lidar annotation has granted me extreme technical rigor and precision in data-focused environments.",
+    "stats": [
+      {
+        "number": "5+",
+        "text": "Years in Digital Strategy"
+      },
+      {
+        "number": "3",
+        "text": "Google Ads Certifications"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "id": "1",
+      "title": "E-commerce & Marketing Exec",
+      "company": "BOSQ Ergonomic Living, UAE",
+      "date": "Jun 2021 – Present",
+      "points": [
+        "Spearheading brand visibility and comprehensive e-commerce optimization across the UAE.",
+        "Formulating strategic campaigns driving vital customer engagement and lead generation.",
+        "Analyzing website analytics identifying deep opportunities for organic traffic."
+      ]
+    },
+    {
+      "id": "2",
+      "title": "AI Data Associate",
+      "company": "Amazon",
+      "date": "May 2022 – Mar 2023",
+      "points": [
+        "Specialized in 3D Lidar data processing for complex computer vision projects.",
+        "Maintained industry-leading accuracy for foundational AI model training.",
+        "Collaborated with ML engineers to streamline the support pipeline and tooling."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "degree": "Bachelor of Specific Applications in Computer Prog.",
+      "school": "Vidya Vikas Institute of Engineering and Technology",
+      "details": "First Class Honors • 2017"
+    },
+    {
+      "id": "2",
+      "degree": "Higher Secondary Education",
+      "school": "St Sebastian’s Higher Secondary School",
+      "details": ""
+    }
+  ],
+  "certifications": [
+    {
+      "id": "1",
+      "title": "AI-Powered Performance Ads",
+      "desc": "Auto-optimizing pipeline expertise"
+    },
+    {
+      "id": "2",
+      "title": "Campaign Manager 360",
+      "desc": "Advanced enterprise oversight"
+    },
+    {
+      "id": "3",
+      "title": "Google Ads Display",
+      "desc": "Actionable strategic modeling"
+    }
+  ],
+  "skills": [
+    {
+      "id": "1",
+      "category": "",
+      "icon": "Monitor",
+      "items": [
+        "Next.js / React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Node.js",
+        "UI/UX Layouts"
+      ]
+    },
+    {
+      "id": "2",
+      "category": "Digital Marketing",
+      "icon": "Code",
+      "items": [
+        "E-commerce",
+        "Strategic Campaigns",
+        "Brand Engagement",
+        "Organic Growth"
+      ]
+    },
+    {
+      "id": "3",
+      "category": "Advertising Tech",
+      "icon": "TrendingUp",
+      "items": [
+        "Google Ads Display",
+        "Performance Max",
+        "Campaign Manager 360"
+      ]
+    },
+    {
+      "id": "4",
+      "category": "AI & Data",
+      "icon": "Activity",
+      "items": [
+        "Lidar Annotation",
+        "3D Data Annotation",
+        "AI Model Training",
+        "Processing"
+      ]
+    },
+    {
+      "id": "1772126415419",
+      "category": "Language",
+      "icon": "Code",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "contact": {
+    "title": "Let's Connect",
+    "description": "Whether you have a strategic marketing role, a data-driven AI opportunity, or just want to connect, my inbox is always open. Let's discuss your next breakthrough.",
+    "email": "contact@mibinthomas.com",
+    "linkedin": "https://linkedin.com/in/mibin-thomas/",
+    "github": "https://github.com/mibinthomas"
+  }
+}
