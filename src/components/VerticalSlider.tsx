@@ -22,28 +22,28 @@ const slides: SlideData[] = [
     title: 'M.T.',
     subtitle: 'Creative Developer',
     description: 'Crafting premium digital experiences through motion and interaction.',
-    image: 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop',
+    image: '/img/spiderman 1.png',
   },
   {
     id: 2,
     title: 'About',
     subtitle: 'The Vision',
     description: 'Bridging the gap between aesthetic design and robust engineering.',
-    image: 'https://images.unsplash.com/photo-1600607686527-6fb886090705?q=80&w=2600&auto=format&fit=crop',
+    image: '/img/spiderman.png',
   },
   {
     id: 3,
     title: 'Work',
     subtitle: 'Selected Projects',
     description: 'A curated showcase of interactive web applications and digital products.',
-    image: 'https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=2670&auto=format&fit=crop',
+    image: '/img/cool.png',
   },
   {
     id: 4,
     title: 'Connect',
     subtitle: 'Get In Touch',
     description: 'Available for freelance opportunities and exciting collaborations.',
-    image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=2670&auto=format&fit=crop',
+    image: '/img/both.png',
   }
 ];
 
